@@ -1,0 +1,32 @@
+:root{
+    Moderate-violet:hsl(263, 55%, 52%);
+    Very-dark-grayish-blue:hsl(217, 19%, 35%);
+    Very-dark-blackish-blue:hsl(219, 29%, 14%);
+    white:hsl(0, 0%, 100%);
+}
+.morado{
+    background-color: hsl(263, 55%, 52%); 
+}
+.gris{
+    background-color: hsl(217, 19%, 35%);;
+}
+.white{
+    background-color: var(white);
+}
+.azul-oscuro{
+  background-color: hsl(219, 29%, 14%);;
+}
+h6{
+    color: white;
+}
+.text1{
+    color: white;
+}
+.text1_2{
+    color: rgba(255, 255, 255, 0.487);
+}
+.text3{
+ color:  hsl(217, 19%, 35%);; ;
+}
+
+
